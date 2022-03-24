@@ -2,12 +2,12 @@
 
 ![image info](./example.png)
 
-We present the Small-Baseline Camera-Tracking dataset which is used as the evaluation dataset in the following paper:
+We present the Small-Baseline Camera-Tracking dataset which is used as the evaluation dataset (StudioSfM) in the following paper:
 
-<em>Depth-Guided Structure-from-Motion for Movies and TV Shows</em>. Sheng Liu, Xiaohan Nie, Raffay Hamid, CVPR 2022
+<em>Depth-Guided Structure-from-Motion for Movies and TV Shows</em>. Sheng Liu, Xiaohan Nie, Raffay Hamid, IEEE CVPR 2022
 
 
-This dataset contains 130 video shots collected from 15 TV episodes from Amazon Prime Video. Each shot is annotated with corresponding camera motion data. This dataset aims to faciliate the research of 3D reconstruction for small-baseline videos in movies and TV shows.
+This dataset contains 130 video shots collected from 15 TV episodes from Amazon Prime Video. Each shot is annotated with corresponding camera motion data by a professional CG studio. This dataset aims to faciliate the research of 3D reconstruction for small-baseline videos in movies and TV shows.
 
 ### Annotation
 
