@@ -4,7 +4,7 @@
 
 We present the Small-Baseline Camera-Tracking dataset which is used as the evaluation dataset (StudioSfM) in the following paper:
 
-<em>Depth-Guided Structure-from-Motion for Movies and TV Shows</em>. Sheng Liu, Xiaohan Nie, Raffay Hamid, IEEE CVPR 2022
+<em>Depth-Guided Sparse Structure-from-Motion for Movies and TV Shows</em>. Sheng Liu, Xiaohan Nie, Raffay Hamid, IEEE CVPR 2022
 
 
 This dataset contains 130 video shots collected from 15 TV episodes from Amazon Prime Video. Each shot is annotated with corresponding camera motion data by a professional CG studio. This dataset aims to faciliate the research of 3D reconstruction for small-baseline videos in movies and TV shows.
@@ -28,7 +28,7 @@ If you use this dataset, please cite the following paper:
 
 ```
 @inproceedings{pv-2022-sfm,
-    title = "Depth-Guided Structure-from-Motion for Movies and TV Shows",
+    title = "Depth-Guided Sparse Structure-from-Motion for Movies and TV Shows",
     author = "Sheng Liu  and
       Xiaohan Nie  and
       Raffay Hamid",
