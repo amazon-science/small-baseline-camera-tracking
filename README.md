@@ -16,7 +16,7 @@ In the folder of each video, the camera motion data is stored as a dictionary in
 The key of the dictionary is the image id which corresponds to image name, and the value is also a dictionary with 'intr_mtx' stores the camera intrinsics and 'v2c' stores the world to camera transformation. 
 
 ### How to request the download link
-Please contact nxiaohan *at* amazon.com to request the download link of the full dataset. 
+Please contact shenlu *at* amazon.com to request the download link of the full dataset. 
 
 ## License
 
